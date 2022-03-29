@@ -49,7 +49,7 @@ El mundo entero está lleno de dunas negras, en un extremo del mundo hay pequeñ
 El gobierno convence a la población de que el mar blanco se ha extinguido por completo, sepultado bajo la arena. Hay gente que no lo cree. Lia y Zak encuentran unos conductos donde viajan un reguero de agua.  (IDEA).
 
 ### Contexto
-
+la historia se desarrolla en un mundo alternativo que es un gran desierto negro donde escasean los medios
 
 ### Conflicto
 sobrevivir al desierto, fenómenos desconocido.
@@ -59,7 +59,7 @@ sobrevivir al desierto, fenómenos desconocido.
 
 ### Productos
 
-- Personaje: (img personaje y enlace a interactivo) 
+- Personaje:  https://elmarblanco.h5p.com/content/1291599859263796187
 
 - Banner/Teaser:  (enlace) 
 
