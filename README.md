@@ -4,7 +4,7 @@
 
 # Proyecto Storytelling (template): 
 
-Nombre del Equipo: ``
+Nombre del Equipo: EL MAR BLANCO 
 
 Proyecto (código): 
 
