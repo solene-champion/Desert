@@ -6,7 +6,7 @@
 
 Nombre del Equipo: EL MAR BLANCO 
 
-Proyecto (código): 
+Proyecto (código): g8
 
 
 ## Resumen
@@ -17,15 +17,43 @@ Proyecto (código):
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
 Nombre: 
+Lia 
+Zak 
+Noa
 
 
 ### Historia
 
+BREVE HISTORIA INTRODUCTORIA: Plataformas de escritura. Impresión PDF (libro de difusión libre)
+
+Una joven, en un mundo alternativo donde hay falta de agua, tiene el sueño de vivir junto al mar.
+
+-LUGAR Y TIEMPO: un mundo alternativo: un desierto negro (lleno de dunas negra) año 3113
+
+PERSONAJE PRINCIPAL: Una chica de 18-20 años (joven) 
+Lia Alora?
+CÚAL ES SU META: tiene el sueño de llegar al mar, porque se lo prometió a la madre en el lecho de muerte y/o tirar sus cenizas.
+TIMELINE (una breve historia):
+CUALES SON SUS OBSTÁCULOS: al villano, las criaturas, sobrevivir al desierto, fenómenos desconocidos
+Dones: superpoderes:
+
+ANTIHÉROE: un líder
+Cual es su objetivo: no quiere que la gente abandone las ciudades
+cuales son sus motivos: 
+
+
+La madre es su motivo. Su madre le hablaba del mal
+El aire es denso y contiene muchas sustancias y humedad, las personas han creado un método para extraer el agua del aire, pero eso a largo plazo es incluso más dañino porque empeora la atmósfera: la desestabiliza y le mandan más residuos
+El mundo entero está lleno de dunas negras, en un extremo del mundo hay pequeñas civilizaciones que sobreviven. Lia intentará cruzar el desierto deshabitado hasta llegar al mar.
+
+El gobierno convence a la población de que el mar blanco se ha extinguido por completo, sepultado bajo la arena. Hay gente que no lo cree. Lia y Zak encuentran unos conductos donde viajan un reguero de agua.  (IDEA).
 
 ### Contexto
 
 
 ### Conflicto 
+sobrevivir al desierto, fenómenos desconocido.
+
 
 
 
