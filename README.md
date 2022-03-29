@@ -10,7 +10,7 @@ Proyecto (código): g8
 
 
 ## Resumen
-
+Es la historia de Lia una chica que su objetivo es llegar al mar blanco del cual hablaba su madre y su abuela y en el camino se va encontrando a Zak un chico que lo unico que busca es aventura y Noa un niño que quiere ayudar a la gente a darse cuenta que todo se esta acabando y que muchas de las cosas que dicen las personas son falsas.
 
 ### Personaje
 
@@ -51,7 +51,7 @@ El gobierno convence a la población de que el mar blanco se ha extinguido por c
 ### Contexto
 
 
-### Conflicto 
+### Conflicto
 sobrevivir al desierto, fenómenos desconocido.
 
 
@@ -75,9 +75,9 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+
+- :woman: Solene Champion, Julia Garín, Andrea Mendoza, Emma Ríos
+- 
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
