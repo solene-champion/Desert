@@ -14,7 +14,6 @@ Es la historia de Lia una chica que su objetivo es llegar al mar blanco del cual
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
 Nombre: 
 Lia 
