@@ -4,9 +4,9 @@
 
 # Proyecto Storytelling (template): 
 
-Nombre del Equipo: EL MAR BLANCO 
+Nombre del Equipo: Solène Champion, Julia Garín, Andrea Mendoza, Emma Ríos
 
-Proyecto (código): 
+Proyecto (código): Lia
 
 
 ## Resumen
@@ -16,7 +16,7 @@ Proyecto (código):
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 
-Nombre: 
+Nombre: Lia
 
 
 ### Historia
