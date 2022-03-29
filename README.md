@@ -6,14 +6,13 @@
 
 Nombre del Equipo: EL MAR BLANCO 
 
-Proyecto (código): g8
+Proyecto (código): Grupo 8
 
 
 ## Resumen
 Es la historia de Lia una chica que su objetivo es llegar al mar blanco del cual hablaba su madre y su abuela y en el camino se va encontrando a Zak un chico que lo unico que busca es aventura y Noa un niño que quiere ayudar a la gente a darse cuenta que todo se esta acabando y que muchas de las cosas que dicen las personas son falsas.
 
 ### Personaje
-
 
 Nombre: 
 Lia 
@@ -65,8 +64,6 @@ sobrevivir al desierto, fenómenos desconocido.
 - Storytelling: (enlace) 
 
 ------
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CC-BY-SA-Andere_Wikis_%28v%29.svg/200px-CC-BY-SA-Andere_Wikis_%28v%29.svg.png)
-
 
 Autores:  
 <!---
