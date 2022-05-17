@@ -64,6 +64,12 @@ sobrevivir al desierto, fenómenos desconocido.
 
 - Storytelling: (enlace) 
 
+- QR : 
+solene-champion.github.io/ar
+![Marker](https://user-images.githubusercontent.com/101631881/168771238-8a350f50-18f3-4886-9a84-69a75513d929.png)
+![qr-code](https://user-images.githubusercontent.com/101631881/168771240-ce52fa8f-7540-4be7-a63a-7fc9d7da0dd8.png)
+
+
 ------
 
 
