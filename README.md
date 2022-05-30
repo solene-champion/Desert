@@ -94,4 +94,4 @@ CCBY [Creacion y Difusión de Nuevos Contenidos Audiovisuales](http://utopolis.u
 
 [Facultad de Comunicación y Documentación](http://fcd.ugr.es)
 
-Universidad de Granada
+Universidad de Granada.
