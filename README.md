@@ -64,6 +64,9 @@ sobrevivir al desierto, fenómenos desconocido.
 
 - Storytelling: (enlace) 
 
+- QR : ![qr-code](https://user-images.githubusercontent.com/101631881/171122051-c5f51bfe-263b-46c9-b1bd-34791ae62d50.png)
+
+
 ------
 
 
