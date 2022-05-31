@@ -75,8 +75,10 @@ Se puede añadir enlace a página personal de github o lo que se quiera...(optat
 -->
 
 
-- :woman: Solene Champion, Julia Garín, Andrea Mendoza, Emma Ríos
-- 
+- :woman: Solene Champion 
+- :woman: Julia Garín 
+- :woman: Andrea Mendoza
+- :woman:Emma Ríos
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
