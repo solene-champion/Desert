@@ -1,5 +1,6 @@
 # storytelling`
 
+![qr-code](https://user-images.githubusercontent.com/101631881/171122668-21d18fb5-9332-4b77-a5f9-4d7cda0dd187.png)
 
 
 # Proyecto Storytelling (template): 
