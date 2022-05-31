@@ -16,14 +16,27 @@ Es la historia de Lia una chica que su objetivo es llegar al mar blanco del cual
 
 
 Nombre: 
-Lia 
-Zak 
-Noa
+Lia : Chica 19 años, natal de Lunde.
+Personalidad: calmada, introvertida, cabezota, seria y enfocada en sus objetivos
+
+Zak : Chico 23 años, natal de Zerim.
+Mascota: un zorro del desierto que se llama Z/Ceta
+Personalidad: Valiente, tenaz, habilidoso y ágil. 
+Su pueblo ha quedado sepultado bajo una gran duna negra y se ve obligado a huir a un pueblo enemigo por necesidad, Lunde.
+Allí advierte a las personas que la arena se aproxima y no tardará en devorar su pueblo. En Lunde conoce a Lia y un grupo de gente que busca huir de las ciudades en busca del mar Blanco. 
+
+
+Se empiezan a formar grupos de huida: uno de los grupos es: Lia, Zak, Noa
+
+
+Noa: Chico 17 años, natal de Nasím.
+Personalidad: gracioso, obstinado, seguro de sí mismo,  cabeza pensante
+
+Noa huye de Zhatium porque descubre su gran engaño, es una crueldad: dejarán gente fuera cuando llegue la arena, en realidad logra entrar muy poca gente porque les ponen muchos impedimentos. y la arena entrará en los conductos por los que les llega el agua.
+
 
 
 ### Historia
-
-BREVE HISTORIA INTRODUCTORIA: Plataformas de escritura. Impresión PDF (libro de difusión libre)
 
 Una joven, en un mundo alternativo donde hay falta de agua, tiene el sueño de vivir junto al mar.
 
@@ -31,21 +44,21 @@ Una joven, en un mundo alternativo donde hay falta de agua, tiene el sueño de v
 
 PERSONAJE PRINCIPAL: Una chica de 18-20 años (joven) 
 Lia Alora?
-CÚAL ES SU META: tiene el sueño de llegar al mar, porque se lo prometió a la madre en el lecho de muerte y/o tirar sus cenizas.
-TIMELINE (una breve historia):
+CÚAL ES SU META: tiene el sueño de llegar al mar, porque su madre y su abuela hablaban de eso. 
 CUALES SON SUS OBSTÁCULOS: al villano, las criaturas, sobrevivir al desierto, fenómenos desconocidos
 Dones: superpoderes:
 
 ANTIHÉROE: un líder
-Cual es su objetivo: no quiere que la gente abandone las ciudades
-cuales son sus motivos: 
+Cual es su objetivo: no quiere que la gente abandonen Zhatium
+cuales son sus motivos: Mantener a la población controlada en un mismo lugar
+
 
 
 La madre es su motivo. Su madre le hablaba del mal
 El aire es denso y contiene muchas sustancias y humedad, las personas han creado un método para extraer el agua del aire, pero eso a largo plazo es incluso más dañino porque empeora la atmósfera: la desestabiliza y le mandan más residuos
 El mundo entero está lleno de dunas negras, en un extremo del mundo hay pequeñas civilizaciones que sobreviven. Lia intentará cruzar el desierto deshabitado hasta llegar al mar.
 
-El gobierno convence a la población de que el mar blanco se ha extinguido por completo, sepultado bajo la arena. Hay gente que no lo cree. Lia y Zak encuentran unos conductos donde viajan un reguero de agua.  (IDEA).
+El gobierno convence a la población de que el mar blanco se ha extinguido por completo, sepultado bajo la arena. Hay gente que no lo cree. Lia y Zak encuentran unos conductos donde viajan un reguero de agua. 
 
 ### Contexto
 la historia se desarrolla en un mundo alternativo que es un gran desierto negro donde escasean los medios
@@ -63,6 +76,8 @@ sobrevivir al desierto, fenómenos desconocido.
 - Banner/Teaser:  (enlace) 
 
 - Storytelling: (enlace) 
+- ProtoPie: 
+- Arcweave: https://arcweave.com/app#/project/dQlAXzm0ng
 
 ------
 
@@ -86,7 +101,7 @@ Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908)
 
 
 
-Febrero, 202X
+Febrero, 2022
 
 Proyecto dentro de la serie [HRUN Story](https://github.com/mgea/storytelling_21/blob/master/What_is_a_HRUN_story.md). 
 Proyectos seleccionados de  [2021](https://github.com/mgea/storytelling/blob/master/2021/readme.md) / [2020](https://github.com/mgea/storytelling/blob/master/2020/readme.md)  / 
