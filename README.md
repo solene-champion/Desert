@@ -73,7 +73,7 @@ Sobrevivir al desierto, fenómenos desconocido.
 
 - Personaje:  https://elmarblanco.h5p.com/content/1291599859263796187 (NO FUNCIONA, YA CADUCO)
 
-- Banner/Teaser:  (enlace) 
+- Banner/Teaser: https://drive.google.com/file/d/1fOT_W8WSNi0shDncYhKUPvIi8Lr_mhGQ/view?usp=sharing
 
 - Storytelling: (enlace) 
 - ProtoPie: https://cloud.protopie.io/p/868c2c237d 
