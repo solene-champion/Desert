@@ -61,10 +61,10 @@ El mundo entero está lleno de dunas negras, en un extremo del mundo hay pequeñ
 El gobierno convence a la población de que el mar blanco se ha extinguido por completo, sepultado bajo la arena. Hay gente que no lo cree. Lia y Zak encuentran unos conductos donde viajan un reguero de agua. 
 
 ### Contexto
-la historia se desarrolla en un mundo alternativo que es un gran desierto negro donde escasean los medios
+La historia se desarrolla en un mundo alternativo que es un gran desierto negro donde escasean los medios
 
 ### Conflicto
-sobrevivir al desierto, fenómenos desconocido.
+Sobrevivir al desierto, fenómenos desconocido.
 
 
 
